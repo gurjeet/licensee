@@ -1,6 +1,9 @@
 # Licensee
 
+sudo apt-get update
 sudo apt-get install -y ruby-bundler ruby-dev g++ cmake pkg-config libssl-dev
+sudo gem install bundler
+
 
 *A Ruby Gem to detect under what license a project is distributed.*
 
